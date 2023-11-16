@@ -1,0 +1,2 @@
+# UIII_Act_4_crud_relacional_varias_tablas
+tbl_fabricante_categoria_producto
